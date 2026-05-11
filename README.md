@@ -21,9 +21,19 @@ The dataset contains the Python code for implementing a semi-analytical Timoshen
 1.  Licenses or restrictions placed on the data: GNU General Public License v3.0
 
 2.  Links to publications that cite or use the data:
-- DOI: \URL{10.24355/dbbs.084-202508201303-0}
+- DOI: 10.24355/dbbs.084-202508201303-0
 - DOI:
 
 # METHODOLOGICAL INFORMATION
+1. File List:
+2. Relationship between files, if important: No relationship
+3. Explanation of the file name convention:
+4. File formats:
 
 # DATA & FILE OVERVIEW
+
+# DATA-SPECIFIC INFORMATION FOR: 
+1. Variable List:
+2. Units: It is recommended that SI units be used.
+3. Definitions for codes or symbols used to record missing data:
+4. Specialized formats or other abbreviations used:
