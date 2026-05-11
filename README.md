@@ -35,8 +35,8 @@ The dataset contains the Python code for a semi-analytical Timoshenko beam model
 3. Explanation of the file name convention:
 4. File formats:
 
-# DATA-SPECIFIC INFORMATION FOR: 
-1. Variable List: See 
+# DATA-SPECIFIC INFORMATION FOR: Semi_analytical_1D_ABH_beam_model.py
+1. Variable List: See docstring. 
 2. Units: It is recommended that SI units be used.
-3. Definitions for codes or symbols used to record missing data:
-4. Specialized formats or other abbreviations used:
+3. Definitions for codes or symbols used to record missing data: /
+4. Specialized formats or other abbreviations used: /
