@@ -24,15 +24,15 @@ The dataset contains the Python code for a semi-analytical Timoshenko beam model
 - DOI: [10.24355/dbbs.084-202508201303-0](https://doi.org/10.24355/dbbs.084-202508201303-0)
 
 # METHODOLOGICAL INFORMATION
-1. Description of methods used for collection or generation of data:
-2.  Methods for processing the data:
-3.  Instrument- or software-specific information needed to interpret the data:
+1. Description of methods used for collection or generation of data: will be expanded
+2.  Methods for processing the data: will be expanded
+3.  Instrument- or software-specific information needed to interpret the data: will be expanded
 
 # DATA & FILE OVERVIEW
-1. File List:
+1. File List: will be expanded
 2. Relationship between files, if important: No relationship
-3. Explanation of the file name convention:
-4. File formats:
+3. Explanation of the file name convention: will be expanded
+4. File formats: will be expanded
 
 # DATA-SPECIFIC INFORMATION FOR: Semi_analytical_1D_ABH_beam_model.py
 1. Variable List: See docstring. 
