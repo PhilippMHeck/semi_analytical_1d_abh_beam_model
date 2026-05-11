@@ -21,7 +21,7 @@ The dataset contains the Python code for implementing a semi-analytical Timoshen
 1.  Licenses or restrictions placed on the data: GNU General Public License v3.0
 
 2.  Links to publications that cite or use the data:
-- DOI: 10.24355/dbbs.084-202508201303-0
+- DOI: [10.24355/dbbs.084-202508201303-0](https://doi.org/10.24355/dbbs.084-202508201303-0)
 - DOI:
 
 # METHODOLOGICAL INFORMATION
