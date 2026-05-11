@@ -22,7 +22,6 @@ The dataset contains the Python code for a semi-analytical Timoshenko beam model
 
 2.  Links to publications that cite or use the data:
 - DOI: [10.24355/dbbs.084-202508201303-0](https://doi.org/10.24355/dbbs.084-202508201303-0)
-- DOI:
 
 # METHODOLOGICAL INFORMATION
 1. Description of methods used for collection or generation of data:
