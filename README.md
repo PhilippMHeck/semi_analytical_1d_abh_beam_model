@@ -9,7 +9,7 @@ Foundation)– project number: 508318707
 
 5. Date of data collection: 2025-05 - 2025-08
 
-6. Geographic location of data collection: Institute for Acoustics and Dynamics in Braunschweig, Germany.
+6. Geographic location of data collection: Institute for Acoustics and Dynamics, Braunschweig, Germany.
 
 7. Information about funding sources that supported the collection of the data: Deutsche Forschungsgemeinschaft (DFG, German Research
 Foundation) – project number: 508318707.
