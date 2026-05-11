@@ -25,15 +25,18 @@ The dataset contains the Python code for a semi-analytical Timoshenko beam model
 - DOI:
 
 # METHODOLOGICAL INFORMATION
+1. Description of methods used for collection or generation of data:
+2.  Methods for processing the data:
+3.  Instrument- or software-specific information needed to interpret the data:
+
+# DATA & FILE OVERVIEW
 1. File List:
 2. Relationship between files, if important: No relationship
 3. Explanation of the file name convention:
 4. File formats:
 
-# DATA & FILE OVERVIEW
-
 # DATA-SPECIFIC INFORMATION FOR: 
-1. Variable List:
+1. Variable List: See 
 2. Units: It is recommended that SI units be used.
 3. Definitions for codes or symbols used to record missing data:
 4. Specialized formats or other abbreviations used:
