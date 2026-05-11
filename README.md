@@ -15,7 +15,7 @@ Foundation)– project number: 508318707
 Foundation) – project number: 508318707.
 
 # ABSTRACT
-The dataset contains the Python code for implementing a semi-analytical Timoshenko beam model for one-dimensional symmetric acoustic black-hole (ABH) structures with damping layers. The code calculates the steady-state vibration response under harmonic force excitation and supports global Sobol sensitivity analyses of the geometric ABH parameters. It is intended as an efficient alternative to finite element simulations for parameter studies on damped one-dimensional ABH structures.
+The dataset contains the Python code for a semi-analytical Timoshenko beam model for one-dimensional symmetric acoustic black hole (ABH) structures with damping layers. The code calculates the steady-state vibration response under harmonic excitation in the frequency domain; the local surface velocity and the root mean square mobility. It serves as an efficient alternative to finite element simulations for damped one-dimensional ABH structures.
 
 # SHARING/ACCESS INFORMATION
 1.  Licenses or restrictions placed on the data: GNU General Public License v3.0
