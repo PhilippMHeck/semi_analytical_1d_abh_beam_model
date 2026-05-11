@@ -11,8 +11,8 @@ Foundation)– project number: 508318707
 
 5. Geographic location of data collection: Institute for Acoustics and Dynamics in Braunschweig, Germany.
 
-7. Information about funding sources that supported the collection of the data: This research data
-was created and funded by the German Research Foundation (DFG) - Project ID: 508318707.
+7. Information about funding sources that supported the collection of the data: Deutsche Forschungsgemeinschaft (DFG, German Research
+Foundation).
 
 # ABSTRACT
 The dataset contains Python code that implements a semi-analytical Timoshenko beam model for one-dimensional symmetric acoustic black hole (ABH) structures with damping layers. The code computes the steady-state vibration response under harmonic force excitation and supports global Sobol sensitivity analyses of geometric ABH parameters. It is intended as an efficient alternative to finite element simulations for parameter studies of damped 1D ABH structures.
